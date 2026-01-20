@@ -382,8 +382,8 @@ body {
 
 .impvid {
     background-color: transparent;
-   margin-top: 20px;
-   margin-bottom: 0%;
+    margin-top: 20px;
+    margin-bottom: 0%;
     height: 350px;
     width: 95%;
     display: flex;
@@ -404,7 +404,8 @@ body {
     height: 100%;
     width: 100%;
 }
-.recommendations{
+
+.recommendations {
     background-color: white;
     height: 120px;
     width: 100%;
@@ -413,7 +414,8 @@ body {
     justify-content: center;
 
 }
-.recbar{
+
+.recbar {
     margin-top: 2px;
     height: 100px;
     width: 95%;
@@ -422,21 +424,23 @@ body {
     display: flex;
     align-items: center;
     justify-content: center;
-    
+
 }
-#signin{
+
+#signin {
     height: 30px;
     width: 150px;
     display: flex;
     align-items: center;
     justify-content: center;
-  border-radius: 8px;
-  background-color: #febd69;
-  margin: 30px;
+    border-radius: 8px;
+    background-color: #febd69;
+    margin: 30px;
 
 
 }
-#top{
+
+#top {
     height: 60px;
     width: 100%;
     display: flex;
@@ -445,20 +449,23 @@ body {
     background-color: #232f3e;
     color: white;
 }
-.infolast1{
+
+.infolast1 {
     height: 400px;
     width: 100%;
     display: flex;
-     align-items: center;
+    align-items: center;
     justify-content: center;
     background-color: #1c222a;
     color: white;
 
 }
-.dezine{
+
+.dezine {
     margin: 20px;
 }
-.lastinfo{
+
+.lastinfo {
     background-color: #232f3e;
     height: 60px;
     width: 100%;
@@ -466,33 +473,38 @@ body {
     align-items: center;
     justify-content: center;
 }
-.infolast-2{
-   
+
+.infolast-2 {
+
     height: 40px;
     width: 90px;
     border: 1px solid white;
-     background-color: transparent;
-     border-radius: 3px;
-     margin: 80px;
+    background-color: transparent;
+    border-radius: 3px;
+    margin: 80px;
 
 }
-#logo img{
+
+#logo img {
     height: 100%;
     width: 100%;
     overflow: hidden;
 
 }
-#country img{
-     height: 100%;
+
+#country img {
+    height: 100%;
     width: 100%;
     overflow: hidden;
 }
-#language img{
- height: 100%;
+
+#language img {
+    height: 100%;
     width: 100%;
     overflow: hidden;
 }
-.disclamer-1{
+
+.disclamer-1 {
     height: 100px;
     width: 100%;
     background-color: #232f3e;
@@ -501,9 +513,7 @@ body {
     justify-content: center;
     color: white;
 }
-#disclamer h3{
+
+#disclamer h3 {
     color: red;
 }
-
-
-
