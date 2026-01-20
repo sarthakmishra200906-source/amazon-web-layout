@@ -382,7 +382,8 @@ body {
 
 .impvid {
     background-color: transparent;
-    margin: 20px;
+   margin-top: 20px;
+   margin-bottom: 0%;
     height: 350px;
     width: 95%;
     display: flex;
@@ -403,3 +404,106 @@ body {
     height: 100%;
     width: 100%;
 }
+.recommendations{
+    background-color: white;
+    height: 120px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+.recbar{
+    margin-top: 2px;
+    height: 100px;
+    width: 95%;
+    border: 1px solid black;
+    border-radius: 8px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+#signin{
+    height: 30px;
+    width: 150px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  border-radius: 8px;
+  background-color: #febd69;
+  margin: 30px;
+
+
+}
+#top{
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #232f3e;
+    color: white;
+}
+.infolast1{
+    height: 400px;
+    width: 100%;
+    display: flex;
+     align-items: center;
+    justify-content: center;
+    background-color: #1c222a;
+    color: white;
+
+}
+.dezine{
+    margin: 20px;
+}
+.lastinfo{
+    background-color: #232f3e;
+    height: 60px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.infolast-2{
+   
+    height: 40px;
+    width: 90px;
+    border: 1px solid white;
+     background-color: transparent;
+     border-radius: 3px;
+     margin: 80px;
+
+}
+#logo img{
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+
+}
+#country img{
+     height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+#language img{
+ height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+.disclamer-1{
+    height: 100px;
+    width: 100%;
+    background-color: #232f3e;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+}
+#disclamer h3{
+    color: red;
+}
+
+
+
